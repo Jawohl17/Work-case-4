@@ -180,4 +180,7 @@ Functionality: Similar to the other application stores, facilitating easy softwa
     vlc-plugin-video-splitter
     vlc-plugin-visualization
 
+   # Conclusion
+In this work case, we explored the definitions and functionalities of packages and repositories, highlighting their roles in software management. We examined various package managers, such as APT, YUM, and Pacman, detailing their key commands and usage. The guide on using APT in Linux Mint provided practical steps for updating, searching, installing, and removing packages, as well as managing repositories. Additionally, we discussed the installation of popular software like VLC and Python through both command-line and graphical interfaces. Overall, this case emphasizes the importance of package management in maintaining and enhancing software systems in Linux environments.
+
 
