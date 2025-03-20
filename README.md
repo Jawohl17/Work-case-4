@@ -1,4 +1,4 @@
-## Work-kase-4
+## Work case 4
 
 ## Task 1: Definitions of "Package" and "Repository"
 # Package
